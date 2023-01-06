@@ -1,1 +1,1 @@
-gcr.io/ml-pipeline/argoexec:v3.3.8-license-compliance
+gcr.io/google-containers/busybox
